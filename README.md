@@ -1,6 +1,6 @@
 # Computational-Category-Theoretic-Rewriting
-This repo contains a notebook to accompany the paper.
+This repo contains a notebook to accompany the [paper](https://arxiv.org/abs/2111.03784).
 
 It also contains the code used to generate benchmark data.
 
-Building this project will install the proper Catlab dependency - this is important because it uses some experimental features not yet merged into the main branch of Catlab.
+This was written prior to the development of [AlgebraicRewriting.jl](https://github.com/AlgebraicJulia/AlgebraicRewriting.jl) which is the recommended way of performing rewriting within [AlgebraicJulia](https://www.algebraicjulia.org/).
